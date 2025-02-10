@@ -1,0 +1,2 @@
+# JournalApp
+Journaling App
