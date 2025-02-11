@@ -30,5 +30,8 @@ public class JournalEntry {
         Content = content;
     }
 
-
+    @Override
+    public String toString() {
+        return Id + " " + Title +  "  " + Content;
+    }
 }
